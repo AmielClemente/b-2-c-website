@@ -73,3 +73,4 @@ The project uses a Filipino-inspired color scheme:
 - Admin dashboard
 - Order management
 - Real-time inventory tracking
+=======
